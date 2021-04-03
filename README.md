@@ -1,3 +1,3 @@
 # LA1
 
-Reversi Game
+Individual projects and group Project.
