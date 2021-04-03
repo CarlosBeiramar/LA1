@@ -1,3 +1,3 @@
 # LA1
 
-Reverse Game
+Reversi Game
